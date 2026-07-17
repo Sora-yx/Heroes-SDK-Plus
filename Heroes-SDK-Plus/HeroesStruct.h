@@ -859,11 +859,10 @@ struct __declspec(align(4)) mtnmanwk
 
 struct TObjPlayer
 {
-	void* __vftableTObj /*VFT*/;
 	TObject tobj;
-	_BYTE gap28[4];
+	void* __vftableTObj /*VFT*/;
 	C_COLLI C_COLLI_;
-	_BYTE gapB4[2];
+	_BYTE gapB4[6];
 	char playerNo;
 	_BYTE gapBB[2];
 	char characterKind;
