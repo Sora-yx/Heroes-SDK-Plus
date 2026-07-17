@@ -1,6 +1,7 @@
-<div align="center">
-	<h1>Heroes SDK Plus</h1>
-</div>
+
+<p align="center">
+	<img width="640" height="480" alt="Heroes_SDK" src="https://github.com/user-attachments/assets/ccea92f8-c40a-4642-a66f-56aa279c3d10" />
+</p>
 
 # About
 
